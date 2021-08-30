@@ -1,7 +1,7 @@
 {
-  "name": "account-generator",
+  "name": "LTI bot generator",
   "version": "1.0.0",
-  "description": "A discord bot you can use to give accounts to your server's members",
+  "description": "watching lti gen",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
